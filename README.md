@@ -1,2 +1,2 @@
 # newwave
-for testing github
+For testing GitHub
